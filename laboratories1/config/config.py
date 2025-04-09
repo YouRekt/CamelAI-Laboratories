@@ -1,0 +1,1 @@
+API_KEY = ''   # If you plan to use external LLM API, please provide your API key here.
