@@ -1,4 +1,6 @@
 # Config
+laboratory1/config/*
+laboratory2/config/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
