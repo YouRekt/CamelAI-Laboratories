@@ -1,6 +1,7 @@
 # Config
 laboratory1/config/*
 laboratory2/config/*
+homework/config/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -27,3 +28,4 @@ share/python-wheels/
 *.egg
 MANIFEST
 .venv/
+r.txt
